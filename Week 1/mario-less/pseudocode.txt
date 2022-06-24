@@ -1,0 +1,8 @@
+- Prompt the user for the height
+- If the height is less than 1 or greater than 8 or not an integer, prompt the user again for the height
+
+- If user enter number between 1 - 8 inclusive
+print hash symbol for a row and another for a column
+Keep repeating it to the number inputted
+
+Print a dot or space every iteration before printing the hash symbol to right align the pyramid
